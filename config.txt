@@ -1,0 +1,4 @@
+;!@Install@!UTF-8!
+Title="Dynamic From Redcodi"
+RunProgram="Dynamic.bat"
+;!@InstallEnd@!
