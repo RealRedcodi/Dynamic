@@ -2,6 +2,5 @@
 cls
 title Dynamic
 echo Dynamic
-echo write test > test.txt
-test.txt
+echo Soon:tm:
 pause
