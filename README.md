@@ -12,4 +12,6 @@ Currently Dynamic has no GUI, and must be setup manually! (This will change in t
  5. Save, close the file, and run `Comp.bat` (Still in the `Internal` folder!).
  6. The output EXE should be available in `Builds`!
 
-This guide is up to date as of https://github.com/RealRedcodi/Dynamic/commit/4e5dac33ae84c0d8e8f20d27e69eb41ea8a8160d ([Download](https://github.com/RealRedcodi/Dynamic/archive/4e5dac33ae84c0d8e8f20d27e69eb41ea8a8160d.zip))
+This guide is up to date as of https://github.com/RealRedcodi/Dynamic/commit/4e5dac33ae84c0d8e8f20d27e69eb41ea8a8160d
+
+Download [Dynamic-4e5dac33ae84c0d8e8f20d27e69eb41ea8a8160d.zip](https://github.com/RealRedcodi/Dynamic/files/7572244/Dynamic-4e5dac33ae84c0d8e8f20d27e69eb41ea8a8160d.zip)
